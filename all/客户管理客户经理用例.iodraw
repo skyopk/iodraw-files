@@ -28,8 +28,8 @@
         <mxCell id="pY3yMjUJXzEi1LwvYEin-2" value="客户管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="160" y="38" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pY3yMjUJXzEi1LwvYEin-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="38" width="282" height="282" as="geometry" />
+        <mxCell id="pY3yMjUJXzEi1LwvYEin-3" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="38" width="230" height="292" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
