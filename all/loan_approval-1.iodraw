@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxGraphModel dx="1024" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    
+    <!-- 泳道: 业务审批 -->
+    <mxCell id="lane1" value="业务审批" style="swimlane" vertex="1" parent="1">
+      <mxGeometry x="50" y="50" width="800" height="200" as="geometry"/>
+    </mxCell>
+    
+    <!-- 泳道: 风险控制 -->
+    <mxCell id="lane2" value="风险控制" style="swimlane" vertex="1" parent="1">
+      <mxGeometry x="50" y="250" width="800" height="200" as="geometry"/>
+    </mxCell>
+    
+    <!-- 泳道: 财务审核 -->
+    <mxCell id="lane3" value="财务审核" style="swimlane" vertex="1" parent="1">
+      <mxGeometry x="50" y="450" width="800" height="200" as="geometry"/>
+    </mxCell>
+    
+    <!-- 开始节点 -->
+    <mxCell id="start" value="开始" style="ellipse;whiteSpace=wrap;html=1;fillColor=green;" vertex="1" parent="1">
+      <mxGeometry x="100" y="100" width="80" height="40" as="geometry"/>
+    </mxCell>
+    
+    <!-- 业务经理审批 -->
+    <mxCell id="step1" value="业务经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="300" y="100" width="160" height="40" as="geometry"/>
+    </mxCell>
+    
+    <!-- 风控经理审批 -->
+    <mxCell id="step2" value="风险控制经理审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="300" y="300" width="160" height="40" as="geometry"/>
+    </mxCell>
+    
+    <!-- 财务复核审批 -->
+    <mxCell id="step3" value="财务复核审批" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="300" y="500" width="160" height="40" as="geometry"/>
+    </mxCell>
+    
+    <!-- 结束节点 -->
+    <mxCell id="end" value="完成放款" style="ellipse;whiteSpace=wrap;html=1;fillColor=red;" vertex="1" parent="1">
+      <mxGeometry x="600" y="500" width="80" height="40" as="geometry"/>
+    </mxCell>
+    
+    <!-- 连接线 -->
+    <mxCell id="edge1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="start" target="step1">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="step1" target="step2">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="edge3" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="step2" target="step3">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+    <mxCell id="edge4" style="edgeStyle=orthogonalEdgeStyle;strokeColor=black;" edge="1" parent="1" source="step3" target="end">
+      <mxGeometry relative="1" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
