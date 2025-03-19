@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="WwilIKPjUu3R-EXleY5o" name="第 1 页">
-    <mxGraphModel dx="49538" dy="36004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="54500" dy="39511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,11 +19,8 @@
         <mxCell id="swimlane2" value="风险控制部" style="swimlane;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="200" width="200" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="node4" value="风险控制经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane2" vertex="1">
-          <mxGeometry x="10" y="170" width="160" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="node5" value="风控分管领导审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane2" vertex="1">
-          <mxGeometry x="10" y="370" width="160" height="50" as="geometry" />
+        <mxCell id="node4" value="风险经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane2" vertex="1">
+          <mxGeometry x="20" y="275" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="swimlane3" value="财务部" style="swimlane;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" width="200" height="600" as="geometry" />
