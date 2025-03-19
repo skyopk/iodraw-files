@@ -40,6 +40,9 @@
         <mxCell id="gixgIl0llGzls8ifnZk6-2" value="贷款管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="50" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MpMN_HOEBpjeuQLCmEzA-1" value="客户经理" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
