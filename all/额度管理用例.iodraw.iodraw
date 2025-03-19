@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gixgIl0llGzls8ifnZk6-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="50" width="180" height="440" as="geometry" />
+          <mxGeometry x="130" y="50" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="K8MUo6vMo7syAICqJ62i-1" value="客户经理" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="110" width="30" height="60" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="FQqwVff2wy-uQeKNe_AM-10" value="贷后检查" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gixgIl0llGzls8ifnZk6-2" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gixgIl0llGzls8ifnZk6-2" value="额度管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="50" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
