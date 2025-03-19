@@ -40,13 +40,13 @@
         <mxCell id="gixgIl0llGzls8ifnZk6-2" value="贷款管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="50" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MpMN_HOEBpjeuQLCmEzA-1" value="客户经理" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+        <mxCell id="MpMN_HOEBpjeuQLCmEzA-1" value="部门负责人" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="370" y="90" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MpMN_HOEBpjeuQLCmEzA-3" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="520" y="213" as="sourcePoint" />
-            <mxPoint x="420" y="210" as="targetPoint" />
+            <mxPoint x="380" y="131.5" as="sourcePoint" />
+            <mxPoint x="280" y="128.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
