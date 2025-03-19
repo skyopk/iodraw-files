@@ -43,9 +43,9 @@
         <mxCell id="MpMN_HOEBpjeuQLCmEzA-1" value="部门负责人" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="30" y="490" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MpMN_HOEBpjeuQLCmEzA-3" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;" edge="1" parent="1">
+        <mxCell id="MpMN_HOEBpjeuQLCmEzA-3" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;" edge="1" parent="1" target="MpMN_HOEBpjeuQLCmEzA-4">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="40" y="430" as="sourcePoint" />
+            <mxPoint x="70" y="520" as="sourcePoint" />
             <mxPoint x="140" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
