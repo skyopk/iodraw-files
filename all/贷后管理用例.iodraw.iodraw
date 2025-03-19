@@ -37,7 +37,7 @@
         <mxCell id="FQqwVff2wy-uQeKNe_AM-12" value="贷款信息查询" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="151" y="400" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gixgIl0llGzls8ifnZk6-2" value="贷款管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="gixgIl0llGzls8ifnZk6-2" value="贷后管理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="50" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
