@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram id="WwilIKPjUu3R-EXleY5o" name="第 1 页">
-    <mxGraphModel dx="42922" dy="31328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="49538" dy="36004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="node1" value="客户经理发起 放款申请" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane1" vertex="1">
-          <mxGeometry x="20" y="50" width="160" height="50" as="geometry" />
+          <mxGeometry x="10" y="80" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="node2" value="业务部经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane1" vertex="1">
-          <mxGeometry x="20" y="190" width="160" height="50" as="geometry" />
+          <mxGeometry x="10" y="275" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="node3" value="业务分管领导审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane1" vertex="1">
           <mxGeometry x="10" y="450" width="160" height="50" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="200" width="200" height="600" as="geometry" />
         </mxCell>
         <mxCell id="node4" value="风险控制经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane2" vertex="1">
-          <mxGeometry x="20" y="70" width="160" height="50" as="geometry" />
+          <mxGeometry x="10" y="170" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="node5" value="风控分管领导审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" parent="swimlane2" vertex="1">
-          <mxGeometry x="20" y="210" width="160" height="50" as="geometry" />
+          <mxGeometry x="10" y="370" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="swimlane3" value="财务部" style="swimlane;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="400" width="200" height="600" as="geometry" />
