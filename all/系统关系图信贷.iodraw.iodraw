@@ -52,14 +52,13 @@
         <mxCell id="UNmpqLoiUaGMWea1P_kc-15" value="逾期数据对接&lt;br&gt;客户数据对接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="219" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UNmpqLoiUaGMWea1P_kc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UNmpqLoiUaGMWea1P_kc-16" edge="1">
+        <mxCell id="UNmpqLoiUaGMWea1P_kc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UNmpqLoiUaGMWea1P_kc-16" edge="1" target="UNmpqLoiUaGMWea1P_kc-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="490" />
-              <mxPoint x="-60" y="360" />
               <mxPoint x="220" y="360" />
-              <mxPoint x="220" y="300" />
+              <mxPoint x="90" y="360" />
+              <mxPoint x="90" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
