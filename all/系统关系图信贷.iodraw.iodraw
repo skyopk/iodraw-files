@@ -20,7 +20,7 @@
           <mxGeometry x="160" y="265" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="UNmpqLoiUaGMWea1P_kc-6" value="影像信息查询" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="369" y="249" width="90" height="20" as="geometry" />
+          <mxGeometry x="330" y="280" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UNmpqLoiUaGMWea1P_kc-10" value="短信发送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="66" y="280" width="60" height="20" as="geometry" />
