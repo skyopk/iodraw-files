@@ -19,7 +19,7 @@
             <mxPoint x="149.03999999999996" y="127.51999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K8MUo6vMo7syAICqJ62i-15" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="K8MUo6vMo7syAICqJ62i-15" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="FQqwVff2wy-uQeKNe_AM-12">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="70" y="168" as="sourcePoint" />
             <mxPoint x="150" y="440" as="targetPoint" />
@@ -32,7 +32,7 @@
           <mxGeometry x="160" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FQqwVff2wy-uQeKNe_AM-12" value="贷款信息查询" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="147" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="160" y="390" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
