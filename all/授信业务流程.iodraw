@@ -19,6 +19,14 @@
         <mxCell id="LJTiUNV990CnTtSmn2d9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="operationType" target="freeze">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LJTiUNV990CnTtSmn2d9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="operationType" target="increase">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJTiUNV990CnTtSmn2d9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="operationType">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="operationType" value="判断操作类型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
         </mxCell>
