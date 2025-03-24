@@ -22,7 +22,7 @@
         <mxCell id="LJTiUNV990CnTtSmn2d9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="operationType" target="increase">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LJTiUNV990CnTtSmn2d9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="operationType">
+        <mxCell id="LJTiUNV990CnTtSmn2d9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="operationType" target="terminate">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="270" as="targetPoint" />
           </mxGeometry>
@@ -52,6 +52,9 @@
           <mxGeometry x="310" y="585" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LJTiUNV990CnTtSmn2d9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="operationType" target="decrease">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LJTiUNV990CnTtSmn2d9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="operationType" target="approval">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
