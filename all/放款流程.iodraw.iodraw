@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="14nyryTbDuh5GKpDUwc4">
-    <mxGraphModel dx="1752" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1613" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7oFLi1ulhUH4iu-f6zyj-7" value="业务部经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="7oFLi1ulhUH4iu-f6zyj-1">
+        <mxCell id="7oFLi1ulhUH4iu-f6zyj-7" value="业务部门经理审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="7oFLi1ulhUH4iu-f6zyj-1">
           <mxGeometry x="30" y="220" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7oFLi1ulhUH4iu-f6zyj-8" value="业务分管领导审批" style="rounded=1;whiteSpace=wrap;fillColor=#FFFFFF;" vertex="1" parent="7oFLi1ulhUH4iu-f6zyj-1">
