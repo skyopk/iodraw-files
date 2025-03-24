@@ -22,7 +22,7 @@
             <mxPoint x="149.03999999999996" y="199.51999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FQqwVff2wy-uQeKNe_AM-10" value="客户信息管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="FQqwVff2wy-uQeKNe_AM-10" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="162" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FQqwVff2wy-uQeKNe_AM-11" value="黑白名单管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
