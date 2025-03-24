@@ -16,7 +16,7 @@
             <mxPoint x="146.96000000000004" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K8MUo6vMo7syAICqJ62i-13" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.667;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="K8MUo6vMo7syAICqJ62i-1" target="FQqwVff2wy-uQeKNe_AM-10" edge="1">
+        <mxCell id="K8MUo6vMo7syAICqJ62i-13" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;verticalAlign=bottom;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.667;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;shape=link;" parent="1" source="K8MUo6vMo7syAICqJ62i-1" target="FQqwVff2wy-uQeKNe_AM-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="110" y="292" as="sourcePoint" />
             <mxPoint x="149.03999999999996" y="199.51999999999998" as="targetPoint" />
@@ -25,7 +25,7 @@
         <mxCell id="FQqwVff2wy-uQeKNe_AM-10" value="客户信息管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="162" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FQqwVff2wy-uQeKNe_AM-11" value="黑白名单管理" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="FQqwVff2wy-uQeKNe_AM-11" value="黑白名单管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="312" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pY3yMjUJXzEi1LwvYEin-2" value="客户管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
