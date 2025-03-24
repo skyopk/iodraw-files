@@ -37,7 +37,7 @@
         <mxCell id="gRV9Id9riRlfk82MZul3-1" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gRV9Id9riRlfk82MZul3-2" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.667;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="gRV9Id9riRlfk82MZul3-1">
+        <mxCell id="gRV9Id9riRlfk82MZul3-2" value="" style="edgeStyle=none;html=1;endArrow=none;endFill=0;endSize=12;verticalAlign=bottom;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.667;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="gRV9Id9riRlfk82MZul3-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="80" y="143" as="sourcePoint" />
             <mxPoint x="170" y="140" as="targetPoint" />
