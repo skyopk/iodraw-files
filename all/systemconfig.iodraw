@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram id="system_data_management" name="Page-1">
+    <mxGraphModel dx="1077" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- 系统数据管理模块 -->
+        <mxCell id="title" value="系统数据管理模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="300" height="50" as="geometry" />
+        </mxCell>
+        <!-- 用户数据添加 -->
+        <mxCell id="addUserData" value="用户数据添加" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <!-- 用户数据修改 -->
+        <mxCell id="editUserData" value="用户数据修改" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <!-- 用户数据管理 -->
+        <mxCell id="manageUserData" value="用户数据管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="270" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <!-- 数据备份 -->
+        <mxCell id="backupData" value="数据备份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+        <!-- 数据还原 -->
+        <mxCell id="restoreData" value="数据还原" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="100" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
