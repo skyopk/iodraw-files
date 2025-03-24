@@ -14,7 +14,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="apply" value="业务人员发起授信调整申请" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="270" y="110" width="200" height="20" as="geometry" />
+          <mxGeometry x="270" y="110" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LJTiUNV990CnTtSmn2d9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="operationType" target="freeze">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="operationType" value="判断操作类型" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
