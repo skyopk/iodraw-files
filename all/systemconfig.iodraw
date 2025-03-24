@@ -29,6 +29,14 @@
           <mxGeometry x="480" y="190" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="90bmnVo2TOPK6i6cHusb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="title" target="addUserData">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="90" />
+              <mxPoint x="100" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="90bmnVo2TOPK6i6cHusb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="title" target="90bmnVo2TOPK6i6cHusb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
