@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pY3yMjUJXzEi1LwvYEin-3" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="110" width="180" height="292" as="geometry" />
+          <mxGeometry x="130" y="110" width="180" height="410" as="geometry" />
         </mxCell>
         <mxCell id="K8MUo6vMo7syAICqJ62i-1" value="客户经理" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="182" width="30" height="60" as="geometry" />
@@ -25,7 +25,7 @@
         <mxCell id="FQqwVff2wy-uQeKNe_AM-10" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="162" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FQqwVff2wy-uQeKNe_AM-11" value="黑白名单管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="FQqwVff2wy-uQeKNe_AM-11" value="部门管理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="312" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pY3yMjUJXzEi1LwvYEin-2" value="用户管理模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
